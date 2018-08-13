@@ -1,4 +1,4 @@
 #wsl tools
 
 ##opex
-###open path with GUI explorer.exe
+open path with GUI explorer.exe
